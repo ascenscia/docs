@@ -5,7 +5,7 @@ Welcome to Elementa's documentation!
 It can connect with various cloud platforms and ELN's and interact with them. 
 
 
-Check out the :doc:`Getting Started` section for further information, including
+Check out the :doc:`getting-started` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
