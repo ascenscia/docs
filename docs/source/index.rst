@@ -1,12 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to Elementa's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Elementa** (/lu'make/) is a specialized voice assistant for lab researchers.
+It can connect with various cloud platforms and ELN's and interact with them. 
 
-Check out the :doc:`usage` section for further information, including
+
+Check out the :doc:`Getting Started` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -18,5 +17,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Getting Started
+   Preparing your experiments
+   Using Elementa in the lab
